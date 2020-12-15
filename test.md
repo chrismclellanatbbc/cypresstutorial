@@ -88,20 +88,9 @@ The user has signed in to the iPlayer app
 | Syntax      | Description |
 | ----------- | ----------- |
 | Verify that a programme can be added or removed from “Your added programmes” from the play-out page mini-viewer      | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566470768466_image.png)       |
-| Paragraph   | Text        |
-
-
-  
-
-| - Verify that a programme can be added or removed from “Your added programmes” from the play-out page mini-viewer | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566470768466_image.png) |
-
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-
-| - Verify that a programme appears in the “Manage full list - Added programmes“ after selecting “Manage full list” from the home page | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566471082309_image.png) |
-
-| - Verify that a programme can be removed from the “Your added programmes” after selecting “X” adjacent to the left of the programme in the “Manage full list - Added programmes“ page | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566470614287_image.png) |
-
-| - Verify “Your added programmes” bundle disappears after all the added programmes are removed from the list | |
+| Verify that a programme appears in the “Manage full list - Added programmes“ after selecting “Manage full list” from the home page   | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566471082309_image.png)        |
+|Verify that a programme can be removed from the “Your added programmes” after selecting “X” adjacent to the left of the programme in the “Manage full list - Added programmes“ page|![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566470614287_image.png)|
+|Verify “Your added programmes” bundle disappears after all the added programmes are removed from the list | |
 
   
 
