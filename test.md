@@ -1,31 +1,4 @@
 # iPlayer Certification Product Test Charters - Home v1.1
-----------
-
-Instructions to use charters:
-
-The iPlayer Product test pack is outlined in the mind map where the product main functionality and multiple features under a functionality are defined.
-
-  
-
-A brief explanation is given for each functionality to help for better understanding. A particular functionality may not consist of relevant charters but is limited to a context summary for your understanding .
-
-  
-
-Each charter includes four sections: Functionality, Feature, Pre-requisites and The Goal (there can be multiple goals per charter).
-
-  
-
-Functionality is a specific area of the product under TEST (e.g. Personalisation)
-
-Feature is a particular product aspect of the area which is under TEST (e.g. Sign-in, Continue watching)
-
-Pre-requisites are required mandatory actions to be fulfilled before the verification
-
-The Goal is to verify the desired behaviour as mentioned, to observe and record the actual behaviour of the product aspect; this is also open for further exploration.
-
-Each goal is identified by an identifier (e.g PER-2)
-
-
   
 
 ## Functionality: Homepage Personalisation
@@ -49,14 +22,13 @@ Each goal is identified by an identifier (e.g PER-2)
 
 ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568974865566_Screenshot+2019-09-20+at+11.18.45.png)
 
-                                                      Highlight__blah__blah__blah
+                                                      How to turn on Personalisation screen
 
   
   
 
 # Feature: “Continue Watching”
 
-  
 
 ## Pre-requisites:
 
@@ -73,19 +45,13 @@ The user has signed in to the iPlayer app
 
 # Feature: “Your Added Programmes”
 
-  
-
 # Pre-requisites:
 
 The user has signed in to the iPlayer app
 
-# The Goal:
+# The Goal: PER-3
 
-  
-
-# PER-3
-
-| Syntax      | Description |
+| Goal      | Example |
 | ----------- | ----------- |
 | Verify that a programme can be added or removed from “Your added programmes” from the play-out page mini-viewer      | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566470768466_image.png)       |
 | Verify that a programme appears in the “Manage full list - Added programmes“ after selecting “Manage full list” from the home page   | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1566471082309_image.png)        |
@@ -98,10 +64,8 @@ The user has signed in to the iPlayer app
 
 # Functionality: Homepage Content items
 
-  
 
 All programmes on the home page are classified as “content items”.
-
   
 
 - Content items can be:
@@ -120,14 +84,14 @@ Selecting the item will start the playback of the episode.
 
  |       |  | |
 | ----------- | ----------- | ---- |
-| ![Episode first shown](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018610078_image.png) | ![episode duration](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018481372_image.png) | ![episode availability](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018531612_image.png) |
+| ![Episode first shown](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018610078_image.png) Episode first shown | ![episode duration](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018481372_image.png) episode duration | ![episode availability](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018531612_image.png) episode availability |
 
 - Top Level Editorial Object(TLEO) content items - TLEO content items are based on a programme. On selection of the item user will be taken to a ‘TLEO’ brand page which will surface all content items for that particular programme. On focus, there is no data about duration and availability.
 
   
   
 
-![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png)
+![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png )
 
   
   
@@ -141,23 +105,11 @@ Selecting the item will start the playback of the episode.
 
 The user has launched the iPlayer app, launch the TLEO (programme) page based on the description provided in the summary.
 
-## The Goal:
+## The Goal: CONT-1
 
-  
-
-CONT-1 Verify that the TLEO (programme) content page has an image in the top right; the title, genre, description and number of episodes should appear in the top left.
-
-Verify that the TLEO content page has a list of series under the programme information if there is more than one series.
-
-  
-
-![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574418819344_Screenshot+2019-11-18+at+3.58.25+pm.png)
-
-  
-
-![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574420112592_Screenshot+2019-11-22+at+10.54.28+am.png)
-
-  
+|Goal|Example|
+|Verify that the TLEO (programme) content page has an image in the top right; the title, genre, description and number of episodes should appear in the top left.|![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574418819344_Screenshot+2019-11-18+at+3.58.25+pm.png)|
+|Verify that the TLEO content page has a list of series under the programme information if there is more than one series.|![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574420112592_Screenshot+2019-11-22+at+10.54.28+am.png)|
   
   
 
