@@ -86,16 +86,12 @@ Selecting the item will start the playback of the episode.
 | ----------- | ----------- | ---- |
 | ![Episode first shown](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018610078_image.png) Episode first shown | ![episode duration](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018481372_image.png) episode duration | ![episode availability](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018531612_image.png) episode availability |
 
-- Top Level Editorial Object(TLEO) content items - TLEO content items are based on a programme. On selection of the item user will be taken to a ‘TLEO’ brand page which will surface all content items for that particular programme. On focus, there is no data about duration and availability.
 
-  
-  
+| Goal | Example |
+| ----------- | ----------- |
+| Top Level Editorial Object(TLEO) content items - TLEO content items are based on a programme. On selection of the item user will be taken to a ‘TLEO’ brand page which will surface all content items for that particular programme. On focus, there is no data about duration and availability. |![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png )|
 
-![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png )
-
-  
-  
-  
+ 
 
 # Feature: “Top Level Editorial Object(TLEO)”
 
