@@ -107,11 +107,10 @@ The user has launched the iPlayer app, launch the TLEO (programme) page based on
 
 ## The Goal: CONT-1
 
- 	| Goal | Example |
-| ----------- | ----------- |
 | Goal | Example |
-| Verify that the TLEO (programme) content page has an image in the top right; the title, genre, description and number of episodes should appear in the top left. | ![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574418819344_Screenshot+2019-11-18+at+3.58.25+pm.png) |
-| Verify that the TLEO content page has a list of series under the programme information if there is more than one series.          |![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574420112592_Screenshot+2019-11-22+at+10.54.28+am.png)      |
+| ----------- | ----------- |
+| Verify that the TLEO (programme) content page has an image in the top right; the title, genre, description and number of episodes should appear in the top left.| ![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574418819344_Screenshot+2019-11-18+at+3.58.25+pm.png)|
+| Verify that the TLEO content page has a list of series under the programme information if there is more than one series.|![](https://paper-attachments.dropbox.com/s_2A334D7AB84E86A54FE6454633BED3FAE9FB2E7DF2DCF09277F89DA23A01EC3F_1574420112592_Screenshot+2019-11-22+at+10.54.28+am.png)|
 
  
 
