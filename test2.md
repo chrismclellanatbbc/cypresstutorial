@@ -73,10 +73,11 @@ Select any VOD content item from Home section and the programme starts to play.
 | Goal |Example|
 | ----------- |-----------|
 |Verify that the mini viewer is displayed and the progress scrubber reflects the current video playback progress.|![Progress bar](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1581071096263_seek+bar.png)|
-|CTRL-2 Verify that  time elapsed increments in line with playback progress and total duration is displayed as per the media asset.||
+|Verify that  time elapsed increments in line with playback progress and total duration is displayed as per the media asset.||
   
 ### Feature: Subtitles  
-### Pre-requisites: Select a content item from Home that is not currently Live. Subtitles can be turned ON/ OFF  by toggling  the ‘S’ icon in the mini viewer. 
+### Pre-requisites: 
+Select a content item from Home that is not currently Live. Subtitles can be turned ON/ OFF  by toggling  the ‘S’ icon in the mini viewer. 
 ### The Goal: CTRL-3, CTRL-4     
 
 | Goal | Example |
@@ -99,7 +100,8 @@ Play an episode that has a next episode available, e.g., Series 1, Episode 1.
 
 
 ### Feature: Windowed Credits
-### Pre-requisites:  In an Autoplay journey, without a next episode, we'll recommend other content via a personal recommendations (P-Recs) feed. To get the p-rec autoplay, play the last episode of a programme and 
+### Pre-requisites:  
+In an Autoplay journey, without a next episode, we'll recommend other content via a personal recommendations (P-Recs) feed. To get the p-rec autoplay, play the last episode of a programme and 
 ### The Goal: AUTO-4, AUTO-5
 
 | Goal | Example |
@@ -120,7 +122,8 @@ Play an episode that has a next episode available, e.g., Series 1, Episode 1.
 
 
 ### Feature: Thumbnail seeking 
-### Pre-requisites: Play any VOD content from the homepage
+### Pre-requisites: 
+Play any VOD content from the homepage
 ### The Goal: SEEK-2, SEEK-3
 
 | Goal | Example |
@@ -141,7 +144,8 @@ A live simulcast is what's being broadcast on a TV channel at that moment, or an
 
 
 ### Feature:  On Now panel dialog
-### Pre-requisites: Select content from the On Now Panel
+### Pre-requisites: 
+Select content from the On Now Panel
 ### The Goal: LIVE-1, LIVE-2
 
 | Goal | Example |
@@ -151,7 +155,8 @@ A live simulcast is what's being broadcast on a TV channel at that moment, or an
 
 
 ### Feature: 2 hour window
-### Pre-requisites: Go to Parliament/News/Alba channel and ensure that the current programme started over 2 hours ago.
+### Pre-requisites: 
+Go to Parliament/News/Alba channel and ensure that the current programme started over 2 hours ago.
 ### The Goal: LIVE-3
 
 | Goal | Example |
@@ -160,7 +165,8 @@ A live simulcast is what's being broadcast on a TV channel at that moment, or an
 
 
 ### Feature: Play more content 
-### Pre-requisites: Select content from the On Now Panel
+### Pre-requisites: 
+Select content from the On Now Panel
 ### The Goal:  LIVE-4 , LIVE-5
 
 | Goal | Example |
@@ -185,7 +191,8 @@ Device is connected to a stable network
 ## Functionality: UHD  
 
 ### Feature: VOD UHD 
-### Pre-requisites:  If a TV device is UHD compatible, it'll be possible to play all episodes of Dracula and Seven Worlds, One Planet on demand in Ultra HD (UHD).  Navigate to the Search page and play one of these programmes. 
+### Pre-requisites:  
+If a TV device is UHD compatible, it'll be possible to play all episodes of Dracula and Seven Worlds, One Planet on demand in Ultra HD (UHD).  Navigate to the Search page and play one of these programmes. 
 ### The Goal: UHD-1    
 
 | Goal | Example |
@@ -197,8 +204,8 @@ Device is connected to a stable network
 
 
 ### Feature: Live UHD
-### Pre-requisites:  Launch iPlayer in Beta mode and play the UHD beta trial video. 
-(to play the trial vide navigate to Settings > Try new features in iPlayer BETA > Play UHD test loop)
+### Pre-requisites:  
+Launch iPlayer in Beta mode and play the UHD beta trial video. (to play the trial vide navigate to Settings > Try new features in iPlayer BETA > Play UHD test loop)
 
 ![UHD trial video in Beta](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1581091763351_beta+mode.png)
 
