@@ -87,10 +87,9 @@ Selecting the item will start the playback of the episode.
 | ![Episode first shown](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018610078_image.png) Episode first shown | ![episode duration](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018481372_image.png) Episode duration | ![episode availability](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1570018531612_image.png) Episode availability |
 
 
-|  |  |
-| ----------- | ----------- |
-| Top Level Editorial Object(TLEO) content items - TLEO content items are based on a programme. On selection of the item user will be taken to a ‘TLEO’ brand page which will surface all content items for that particular programme. On focus, there is no data about duration and availability. |![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png ) TLEO content item|
+Top Level Editorial Object(TLEO) content items - TLEO content items are based on a programme. On selection of the item user will be taken to a ‘TLEO’ brand page which will surface all content items for that particular programme. On focus, there is no data about duration and availability.
 
+![TLEO content item](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1568976596637_image.png )
  
 
 ## Feature: “Top Level Editorial Object(TLEO)”
@@ -114,22 +113,21 @@ The user has launched the iPlayer app, launch the TLEO (programme) page based on
 
 # Functionality: Homepage Bundles
 
+Homepage consists of various bundles which may change based on editorial promotions. Bundles are located horizontally across the homepage and usually have a bundle title e.g. BBC Three, Most Popular.
+![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1569849161542_image.png) 
+![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1569849187526_image.png)
 
-| Goal | Example |
-| ----------- | ----------- |
-| Homepage consists of various bundles which may change based on editorial promotions. Bundles are located horizontally across the homepage and usually have a bundle title e.g. BBC Three, Most Popular. | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1569849161542_image.png) |
-|  | ![](https://paper-attachments.dropbox.com/s_ACE07469753DC2C988590B03970BF2D177010E2D3B8B8C9944C82DF73FC2DCBF_1569849187526_image.png) |
-|There can be special editorial promotions on the homepage. These may be referred to as Live events bundle, Hero Promotion.|![Hero Promo](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741526454_image.png)|
-||![Live Event Bundle](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741597628_image.png)|
+There can be special editorial promotions on the homepage. These may be referred to as Live events bundle, Hero Promotion.
+![Hero Promo](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741526454_image.png)
+![Live Event Bundle](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741597628_image.png)
   
 
 ----------
 
 # Functionality: Overflow Grids/View All
 
-| Goal | Example |
-| ----------- | ----------- |
-| The “View All” buttons are journey links that appear at the end of bundles on the Home page, as shown | ![](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741756593_image.png) |  
+The “View All” buttons are journey links that appear at the end of bundles on the Home page, as shown
+![](https://paper-attachments.dropbox.com/s_4CDF57DFFF10EB6469F22849E81D7484D7D54C0C9805F37343104E6A4073EB60_1606741756593_image.png)  
 
   
 - There can be bundles present on the Home page which do not have a “View All” button
