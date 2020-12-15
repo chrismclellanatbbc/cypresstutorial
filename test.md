@@ -27,14 +27,14 @@
   
   
 
-# Feature: “Continue Watching”
+## Feature: “Continue Watching”
 
 
-## Pre-requisites:
+### Pre-requisites:
 
 The user has signed in to the iPlayer app
 
-## The Goal: PER-2
+### The Goal: PER-2
 
 | Goal      | Example |
 | ----------- | ----------- |
@@ -43,13 +43,13 @@ The user has signed in to the iPlayer app
 
   
 
-# Feature: “Your Added Programmes”
+## Feature: “Your Added Programmes”
 
-# Pre-requisites:
+### Pre-requisites:
 
 The user has signed in to the iPlayer app
 
-# The Goal: PER-3
+### The Goal: PER-3
 
 | Goal      | Example |
 | ----------- | ----------- |
@@ -62,7 +62,7 @@ The user has signed in to the iPlayer app
 
 ----------
 
-# Functionality: Homepage Content items
+## Functionality: Homepage Content items
 
 
 All programmes on the home page are classified as “content items”.
@@ -93,15 +93,15 @@ Selecting the item will start the playback of the episode.
 
  
 
-# Feature: “Top Level Editorial Object(TLEO)”
+## Feature: “Top Level Editorial Object(TLEO)”
 
   
 
-## Pre-requisites:
+### Pre-requisites:
 
 The user has launched the iPlayer app, launch the TLEO (programme) page based on the description provided in the summary.
 
-## The Goal: CONT-1
+### The Goal: CONT-1
 
 | Goal | Example |
 | ----------- | ----------- |
@@ -137,15 +137,15 @@ The user has launched the iPlayer app, launch the TLEO (programme) page based on
 
   
 
-# Feature: “Overflow/View All Journeys”
+## Feature: “Overflow/View All Journeys”
 
   
 
-## Pre-requisites:
+### Pre-requisites:
 
 The user is currently on the Homepage
 
-## The Goal: OF-1
+### The Goal: OF-1
 
 When a user selects the ‘View all’, they will be navigated to one of the following
 
