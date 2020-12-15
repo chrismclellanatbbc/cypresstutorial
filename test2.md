@@ -142,8 +142,7 @@ A live simulcast is what's being broadcast on a TV channel at that moment, or an
 
 ![On Now panel](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1580485789515_On+now.png)
 
-
-### Feature: On Now panel dialog
+### Feature: On Now panel dialog
 ### Pre-requisites: 
 Select content from the On Now Panel
 ### The Goal: LIVE-1, LIVE-2
