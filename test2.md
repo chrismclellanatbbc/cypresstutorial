@@ -5,14 +5,22 @@
 
 ### Feature : Playing VOD 
 ### Prerequisite : A VOD programme is selected to play from Home Page and the dialog selections are already made 
-###The Goal : VOD NFR -1 Programme starts to play in 10 secs 
+### The Goal : VOD NFR-1 
+
+| Goal |
+| ----------- |
+| Programme starts to play in 10 sec |
 
 
 ## Functionality : VOD ABR Switching
 
 ### Feature : ABR switching 
 ### Prerequisite : A VOD programme is selected to play from Home Page and the dialog selections are already made and is connected to a stable network 
-###The Goal :  VOD ABR NFR-1  It should not take more than 1 minute to switch to the highest quality stream.
+### The Goal :  VOD ABR NFR-1  
+
+| Goal |
+| ----------- |
+| It should not take more than 1 minute to switch to the highest quality stream. |
 
 ## Functionality: Parental Guidance
 
@@ -20,16 +28,11 @@ The Parental Guidance Lock helps you control what people in your household can a
 
 ### Feature: Guidance and Parental Controls
 ### Pre-requisites: User has not set up the PG PIN on the application and selects a PG enabled VOD content to play.
-### The Goal:    
+### The Goal: GPC-1    
 
-
-![Guidance](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581086801613_Guidance.png)
-
-
-
-GPC-1 Verify that upon choosing `I understand, continue`, you are taken to the Parental Controls dialog.
-
-
+| Goal |Example|
+| ----------- |-----------|
+| Verify that upon choosing `I understand, continue`, you are taken to the Parental Controls dialog. |![Guidance](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581086801613_Guidance.png)|
 
 
 ### Feature: Parental Guidance Lock set up
@@ -38,34 +41,17 @@ GPC-1 Verify that upon choosing `I understand, continue`, you are taken to the P
 ![Parental Controls](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581093401035_Set+up+Parental+Controls.png)
 
 
-### The Goal:
-
-![Create PIN](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581096405499_PG+Set+Up+1.png)
+### The Goal: PG-2, PG-3, PG-4, PG-6, PG-7, PG-8
 
 
-PG-2 Verify that a PIN can be created following the parental guidance set up process.
-
-PG-3 Verify that a security question and answer set up can be done which is used to change the PIN.
-
-
-PG-4 Verify that after the parental guidance set up is completed, the selected VOD continue to play
-
-
-
-![](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581097080944_PG+Set+Up+8.png)
-
-
-PG-6 Select another PG enabled VOD content to play and verify that Parental Guidance Lock dialog is shown to enter the PIN.
-
-![](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581338078529_PG+Lock+1.png)
-
-
-
-PG-7 Verify that after the PIN is entered and selecting OK, the VOD starts to play.
-
-
-
-PG-8 Verify that it is not possible to proceed to the video if a wrong PIN has been entered. 
+| Goal |Example|
+| ----------- |-----------|
+| Verify that a PIN can be created following the parental guidance set up process. |![Create PIN](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581096405499_PG+Set+Up+1.png)|
+|Verify that a security question and answer set up can be done which is used to change the PIN.||
+|Verify that after the parental guidance set up is completed, the selected VOD continue to play|![](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581097080944_PG+Set+Up+8.png)|
+|Select another PG enabled VOD content to play and verify that Parental Guidance Lock dialog is shown to enter the PIN.|![Create PIN](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581096405499_PG+Set+Up+1.png)|
+|Verify that after the PIN is entered and selecting OK, the VOD starts to play.|![](https://paper-attachments.dropbox.com/s_7E64603F9A1C51A7E0C390930FEEB8B52E3A1D28F375D1E027DBCDA211935FA8_1581338078529_PG+Lock+1.png)|
+|Verify that it is not possible to proceed to the video if a wrong PIN has been entered.|| 
 
 
 ## Functionality: Playback Controls
@@ -77,23 +63,21 @@ Once a user has started to play a programme, playback controls (mini viewer) wil
 
 ### Feature: Progress bar
 ### Pre-requisites: Select any VOD content item from Home section and the programme starts to play. 
-### The Goal: 
+### The Goal: CTRL-1, CTRL-2
 
-CTRL-1 Verify that the mini viewer is displayed and the progress scrubber reflects the current video playback progress.
-
-![Progress bar](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1581071096263_seek+bar.png)
-
-
-CTRL-2 Verify that  time elapsed increments in line with playback progress and total duration is displayed as per the media asset.
+| Goal |Example|
+| ----------- |-----------|
+|Verify that the mini viewer is displayed and the progress scrubber reflects the current video playback progress.|![Progress bar](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1581071096263_seek+bar.png)|
+|CTRL-2 Verify that  time elapsed increments in line with playback progress and total duration is displayed as per the media asset.||
   
 ### Feature: Subtitles  
 ### Pre-requisites: Select a content item from Home that is not currently Live. Subtitles can be turned ON/ OFF  by toggling  the ‘S’ icon in the mini viewer. 
-### The Goal:     
+### The Goal: CTRL-3, CTRL-4     
 
-CTRL-3 Verify that the subtitles displayed are always in sync with the programme playing (with the provision that subtitles have been created correctly).
-CTRL-4 Verify that after selecting to play another programme with subtitles, the programme played out is displayed with subtitles.
-
-![Subtitles](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1580486543874_subtitles.png)
+| Goal | Example |
+| ----------- | ----------- |
+|Verify that the subtitles displayed are always in sync with the programme playing (with the provision that subtitles have been created correctly).|![Subtitles](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1580486543874_subtitles.png)|
+|Verify that after selecting to play another programme with subtitles, the programme played out is displayed with subtitles.||
 
 ## Functionality: Autoplay
 
@@ -103,6 +87,7 @@ When you get to the end of an episode, BBC iPlayer will automatically play the n
 ### Pre-requisites:  Play an episode that has a next episode available, e.g., Series 1, Episode 1. 
 ### The Goal: 
 AUTO-1 Verify that upon the countdown completion the next episode plays with no errors.
+
 
 
 ![Next Autoplay](https://paper-attachments.dropbox.com/s_165B224F69ED0B510B002C0A9EB1624B03D9601D82F539D9CDCFDD5727FD73BF_1580308834398_Next_autoplay.png)
