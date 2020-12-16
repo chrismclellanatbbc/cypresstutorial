@@ -12,6 +12,9 @@ A VOD programme is selected to play from Home Page and the dialog selections are
 | ----------- |
 | Programme starts to play in 10 sec |
 
+|  A |  B |  C |
+|---|---|---|
+
 
 ## Functionality : VOD ABR Switching
 
